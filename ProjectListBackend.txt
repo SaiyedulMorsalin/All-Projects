@@ -1,0 +1,32 @@
+link--->https://blog.hubspot.com/website/backend-projects
+
+1. A User Authentication System
+
+2. Build a Landing Page
+3. Build Your Own Web Server
+4. Build a Finance Application
+5. Create a Text Analyzer
+6. Build a To-Do App
+8. Build an API
+10. Create a Library Book Collection Application Project
+12. Build an E-commerce Application
+13. Create a Restaurant App
+14. Deploy an Image Management Application
+15. Build a Search Engine for StackOverflow
+
+link2--->https://roadmap.sh/backend/project-ideas
+2. To-Do List API
+6. URL Shortening Service
+7. Real-time Polling App
+8. Simple E-commerce API
+10. Recipe Sharing Platform
+12. Restaurant Review Platform (API) with automatic NLP analysis
+15. Online Code Compiler API
+16. Messaging Platform Backend
+17. Content Delivery Network (CDN) Simulator
+18. Time-tracking CLI for Freelancers
+
+link3-->https://www.knowledgehut.com/blog/web-development/backend-projects
+
+
+FullStack Link--->https://www.turing.com/blog/eight-full-stack-project-ideas-for-software-developers/

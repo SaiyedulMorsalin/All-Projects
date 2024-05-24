@@ -1,3 +1,36 @@
 // Backend Project
 1. Bksah implement.
 2. Nagad implement.
+
+// FrontEnd
+link-->https://www.wscubetech.com/blog/front-end-development-projects/
+link2-->https://hackernoon.com/10-frontend-projects-to-take-your-coding-skills-to-the-next-level
+frontendPractice -->https://www.frontendpractice.com/
+2. Payment Landing Page
+3. Pricing Card Page
+5. Contact Us Form
+6. Accordion Component
+7. OTP Verification Component
+8. Calendar Viewer Component
+9. Multi-select Search Component
+10. Video Player Web App
+To-do List App
+Content Management System
+QR Code Reader
+Portfolio Site
+URL Shortening Landing Page
+Quiz Game
+Music Player
+Chatting App
+Calculator
+Typing Speed Tester
+Job Listings with Filtering
+Weather App
+Product Landing Page
+Giphy
+Temperature Converter
+Meme Generator
+Responsive Blog Website
+Pricing Component with Toggle
+Rock, Paper, Scissors Game
+My-team Multi-page website
